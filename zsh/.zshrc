@@ -1,3 +1,4 @@
+# This displays an Elite logo when starting the shell. Need catimg installed
 # catimg -w 60 ~/Pictures/elite-assets/elite-dangerous-minimalistic.png
 echo "Greetings, Commander!"
 
