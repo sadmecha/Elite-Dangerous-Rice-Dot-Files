@@ -71,9 +71,6 @@ bindsym $mod+Return exec cool-retro-term
 # Auto Clicker
 bindsym Control+F8 exec xdotool click --repeat 10000 --delay 100 1
 bindsym Control+F7 exec pkill xdotool
- 
-# Lockscreen
-# bindsym $mod+Control+l exec i3lock -tf -p win -i /home/rafael/Pictures/red-hat-wallpaper/red-hat-wallpaper.png
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
